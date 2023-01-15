@@ -1,0 +1,49 @@
+.wllpaper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(230, 207, 198);
+
+}
+.Coffee{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Info{
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    gap: 20px;
+    padding-right: 10px;
+}
+.Mug{
+    width: 300px;
+    height: 350px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    box-sizing: border-box;
+}
+h2{
+    font-size: 2rem;
+}
+b{
+    color: rgb(13, 79, 61);
+    font-size: larger;
+}
+s{
+    margin-left: 6px;
+    font-size: small;
+    color: rgb(123, 118, 118);
+}
+.Cart{
+    border-radius: 8px;
+    background-color: rgb(22, 96, 77);
+    display: inline-block;
+    padding: 8px 85px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
